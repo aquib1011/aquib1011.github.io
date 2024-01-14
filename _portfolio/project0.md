@@ -4,7 +4,7 @@ excerpt: "
 The research demonstrates that a Vision Transformer adapted for audio data outperforms both a custom CNN and traditional machine learning models in classifying music genres using mel spectrograms from the GTZAN dataset.<br/><img src='/images/vit.png'>"
 collection: Project
 ---
-[Code](https://github.com/aquib1011/Audio-Classification-using-ViT-and-CNN/tree/main)
+[Code](https://github.com/aquib1011/Audio-Classification-using-ViT-and-CNN/tree/main) 
 [Paper](https://drive.google.com/file/d/1IGQaNs4xyBBJoRiVXjW5XV3u3ug80JPD/view?usp=sharing)
 
 

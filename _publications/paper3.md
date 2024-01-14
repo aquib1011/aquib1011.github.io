@@ -7,6 +7,7 @@ date: 2023-12-05
 venue: 'INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING, MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE APPLICATIONS (SIGMAA 2023)'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
+
 Agricultural losses have an effect on the global economy,
 and plant diseases are a primary cause of such losses. To address these
 challenges, artificial intelligence techniques such as deep learning can
